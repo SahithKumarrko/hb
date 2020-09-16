@@ -42,7 +42,7 @@ body {
   display: flex;
   overflow: hidden;
   -webkit-box-align: center;
-          align-items: center;
+          align-items: center
   -webkit-box-pack: center;
           justify-content: center;
   min-height: 100vh;
@@ -135,6 +135,24 @@ body {
 .cake__tongue {
   fill: var(--tongue);
 }
+  	<div class="card">
+		<div class="imgBox">
+			<div class="bark"></div>
+			<img src="https://image.ibb.co/fYzTrb/lastofus.jpg">
+		</div>
+		<div class="details">
+			<h4 class="color1">You're not a Fossil! (YET)</h2>
+			<h4 class="color2 margin">(HAPPY BIRTHDAY LADDU)</h3>
+			
+			
+      <p>Happy birthday to a person </p>that’scharming, talented, 
+      <p>and witty, and reminds me </p>
+      <p>a lot of myself.</p>
+<p>Have a wonderful, happy, </p><p>healthy birthday now and forever.</p>
+			<p class="text-right">Happy Birthday,  laddu..</p>
+			<p class="text-right">♥Sahith</p>
+		</div>
+	</div>
 .cake__mouth-opening {
   fill: var(--stroke);
   stroke: var(--stroke);
